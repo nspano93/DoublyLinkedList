@@ -1,7 +1,7 @@
 # DoublyLinkedList
-My Doubly Linked list I created for my Data Structures class.
+My Doubly Linked list I created.
 
-We were tasked with creating a complete Doubly Linked List that emulated what Java does with their Linked List Class.
+I wanted to create a complete Doubly Linked List that emulated what Java does with their Linked List Class.
 
 The three files included are the ListNode, LinkedList, and the LinkedListDriver.
 
